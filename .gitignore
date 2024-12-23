@@ -1,0 +1,3 @@
+# Ignore all node_modules folders (default behavior)
+node_modules/
+.env/
